@@ -60,6 +60,7 @@ p {
 }
 .project-link {
   color: inherit;
+  font-weight: 500;
 }
 .description {
   font-weight: 400;
