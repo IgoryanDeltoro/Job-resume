@@ -88,6 +88,9 @@ p {
   line-height: 20px;
   margin-bottom: 10px;
 }
+.work-list {
+  margin-left: 20px;
+}
 .work-description {
   font-weight: 400;
   font-size: 14px;
@@ -103,7 +106,9 @@ p {
 .ed-list {
   list-style: none;
 }
-
+.second-ad-list {
+  margin-left: 20px;
+}
 .ed-description {
   font-weight: 400;
   font-size: 14px;
@@ -182,4 +187,8 @@ p {
   font-size: 14px;
   line-height: 24px;
   color: #cfc5c5;
+}
+
+.no-line {
+  text-decoration: none;
 }
