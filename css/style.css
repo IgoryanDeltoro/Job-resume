@@ -133,6 +133,7 @@ p {
 }
 .photo {
   width: 370px;
+  height: 400px;
   margin-bottom: 50px;
 }
 .contact-list {
